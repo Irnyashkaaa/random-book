@@ -1,0 +1,28 @@
+.img {
+    width: 400px;
+    min-width: 400px;
+    margin: 80px 0px;
+}
+
+.body {
+    display: flex;
+}
+
+.info {
+    margin: 20px;
+}
+.title {
+    color: white;
+    font-size: 43px;
+    margin-bottom: 22px;
+}
+.description {
+    color: rgba(246, 233, 230, 1);
+    font-size: 28px;
+    line-height: 185%;
+    margin-right: 40px;
+}
+.author {
+    color: rgba(232, 190, 160, 0.26);
+    font-size: 36px;
+}
